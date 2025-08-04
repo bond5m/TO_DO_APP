@@ -1,0 +1,41 @@
+# Node modules (both backend and frontend)
+node_modules/
+client/node_modules/
+
+
+
+
+# Build output (React)
+client/build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment files
+.env
+.env.local
+.env.*.local
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Editor folders/files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage directory used by testing tools
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Local tunnel/third-party dev secrets or caches
+*.pem
+.cache/
