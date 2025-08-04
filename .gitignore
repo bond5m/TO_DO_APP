@@ -5,8 +5,7 @@ client/node_modules/
 
 
 
-# Build output (React)
-client/build/
+
 
 # Logs
 logs
